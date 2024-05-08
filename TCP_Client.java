@@ -1,5 +1,5 @@
 package shady_main;
-
+//note that to interface with server you need MagicSocket app on Desktop and SensorLog app on iPhone
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
